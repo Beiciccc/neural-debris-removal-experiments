@@ -1,6 +1,9 @@
 # Experiment Records
+
 This file tracks public submission outcomes and lightweight candidate statistics. Lower public score is better for this competition.
+
 ## Public Submission Results
+
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
 | 2026-04-30 20:54:57.137000 | `sub01_baseline_it20_lr1e4_thr020.csv` | sub01 baseline finetune it20 lr1e-4 thr0.2 | COMPLETE | 266.5512 |
@@ -19,6 +22,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-07 23:04:48.417000 | `sub15_zaoui_public_scale109_keep020.csv` | sub15 zaoui public scale1.09 keep0.20 fixed-empty | COMPLETE | 249.5749 |
 
 ## Candidate Direction Notes
+
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- The current best recorded public score in this repository snapshot is 249.5749 from `sub15_zaoui_public_scale109_keep020.csv`.
-- Later candidate files (`sub16` onward) are retained as generated artifacts for follow-up submissions.
+- Best recorded public score in this snapshot is 249.5749 from `sub15_zaoui_public_scale109_keep020.csv`.
+- Later candidate files are retained as generated artifacts for follow-up submissions.
