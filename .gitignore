@@ -1,0 +1,14 @@
+# Local and sensitive files
+.env*
+kaggle.json
+*.pth
+*.pt
+*.pkl
+*.ckpt
+.DS_Store
+._*
+logs/
+external_code/
+scripts/
+data/raw/
+experiments/**/work/unlearned/

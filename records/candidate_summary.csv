@@ -1,0 +1,10 @@
+file,rows,det,empty,conf_mean,conf_p50,conf_p90,conf_max
+submissions/sub03_candidate_zaoui_public_prune015_ewc50.csv,2000,1276,1053,0.34145531034482757,0.31063,0.507968,0.876111
+submissions/sub04_candidate_zaoui_prune0125_real_ewc50.csv,2000,1342,1018,0.3508768137108793,0.318466,0.530642,0.891654
+submissions/sub05_candidate_zaoui_prune010_real_ewc50.csv,2000,1533,927,0.3647234520547945,0.334988,0.5579,0.893878
+submissions/sub06_candidate_zaoui_prune0175_real_ewc50.csv,2000,872,1294,0.28842700688073397,0.265781,0.400354,0.690999
+submissions/sub07_candidate_minhazul_anp.csv,2000,2032,756,0.10193197539370079,0.088502,0.160775,0.401476
+submissions/sub08_candidate_zaoui_public_scale095_drop020.csv,2000,1205,1090,0.33201886390041496,0.304145,0.489662,0.832305
+submissions/sub09_candidate_zaoui_public_scale090_drop020.csv,2000,1123,1140,0.3233519839715049,0.296353,0.469474,0.7885
+submissions/sub10_candidate_zaoui_public_scale100_drop025.csv,2000,960,1239,0.38030960937499997,0.351199,0.541733,0.876111
+submissions/sub11_candidate_zaoui_public_scale095_drop025.csv,2000,883,1288,0.37155749943374855,0.340751,0.523576,0.832305
