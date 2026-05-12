@@ -20,9 +20,11 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-06 04:29:30.987000 | `sub13_zaoui_public_scale107_keep020.csv` | sub13 zaoui public scale1.07 keep0.20 | COMPLETE | 249.6356 |
 | 2026-05-07 23:01:32.353000 | `sub14_zaoui_public_scale108_keep020.csv` | sub14 zaoui public scale1.08 keep0.20 | COMPLETE | 249.6019 |
 | 2026-05-07 23:04:48.417000 | `sub15_zaoui_public_scale109_keep020.csv` | sub15 zaoui public scale1.09 keep0.20 fixed-empty | COMPLETE | 249.5749 |
+| 2026-05-12 11:23:13.343000 | `sub16_zaoui_public_scale110_keep020.csv` | sub16 zaoui public scale1.10 keep0.20 | COMPLETE | 249.5559 |
+| 2026-05-12 11:25:05.790000 | `sub17_zaoui_public_scale111_keep020.csv` | sub17 zaoui public scale1.11 keep0.20 | COMPLETE | 249.5404 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 249.5749 from `sub15_zaoui_public_scale109_keep020.csv`.
+- Best recorded public score in this snapshot is 249.5404 from `sub17_zaoui_public_scale111_keep020.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.

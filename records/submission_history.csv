@@ -1,4 +1,6 @@
 fileName,date_utc,description,status,publicScore
+sub17_zaoui_public_scale111_keep020.csv,2026-05-12 11:25:05.790000,sub17 zaoui public scale1.11 keep0.20,SubmissionStatus.COMPLETE,249.5404
+sub16_zaoui_public_scale110_keep020.csv,2026-05-12 11:23:13.343000,sub16 zaoui public scale1.10 keep0.20,SubmissionStatus.COMPLETE,249.5559
 sub15_zaoui_public_scale109_keep020.csv,2026-05-07 23:04:48.417000,sub15 zaoui public scale1.09 keep0.20 fixed-empty,SubmissionStatus.COMPLETE,249.5749
 sub15_zaoui_public_scale109_keep020.csv,2026-05-07 23:03:05.970000,sub15 zaoui public scale1.09 keep0.20,SubmissionStatus.ERROR,
 sub14_zaoui_public_scale108_keep020.csv,2026-05-07 23:02:17.947000,sub14 zaoui public scale1.08 keep0.20,SubmissionStatus.ERROR,
