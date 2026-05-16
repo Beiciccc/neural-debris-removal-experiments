@@ -25,6 +25,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-13 02:24:36.373000 | `sub18_zaoui_public_scale112_keep020.csv` | sub18 zaoui public scale1.12 keep0.20 | COMPLETE | 246.8837 |
 | 2026-05-13 02:26:33.443000 | `sub19_zaoui_public_scale11225_keep020.csv` | sub19 zaoui public scale1.1225 keep0.20 | COMPLETE | 246.8777 |
 | 2026-05-16 19:52:38.583000 | `sub20_zaoui_public_scale1125_keep020.csv` | sub20 zaoui public scale1.125 keep0.20 | COMPLETE | 246.8721 |
+| 2026-05-16 19:54:02.213000 | `sub21_zaoui_public_scale113_drop025.csv` | sub21 zaoui public scale1.13 drop0.25 | COMPLETE | 247.4740 |
 
 ## Candidate Direction Notes
 
