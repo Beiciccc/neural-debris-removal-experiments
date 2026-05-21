@@ -32,9 +32,12 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-18 05:52:21.630000 | `sub24_zaoui_public_scale114_keep020.csv` | sub24 zaoui public scale1.14 keep0.20 | COMPLETE | 246.8434 |
 | 2026-05-19 04:49:16.643000 | `sub25_zaoui_public_scale1141_keep020.csv` | sub25 zaoui public scale1.141 keep0.20 | COMPLETE | 246.8416 |
 | 2026-05-19 04:53:11.693000 | `sub26_zaoui_public_scale114125_keep020.csv` | sub26 zaoui public scale1.14125 keep0.20 | COMPLETE | 246.8412 |
+| 2026-05-20 02:43:38.607000 | `sub27_zaoui_public_scale11414_keep020.csv` | sub27 zaoui public scale1.1414 keep0.20 | COMPLETE | 246.8409 |
+| 2026-05-20 02:46:52.033000 | `sub28_zaoui_public_scale1145_clip100_keep020.csv` | sub28 zaoui public scale1.145 clip1.0 keep0.20 | COMPLETE | 246.8359 |
+| 2026-05-21 03:21:38.510000 | `sub29_zaoui_public_scale115_clip100_keep020.csv` | sub29 zaoui public scale1.15 clip1.00 keep0.20 | COMPLETE | 246.8308 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 246.8412 from `sub26_zaoui_public_scale114125_keep020.csv`.
+- Best recorded public score in this snapshot is 246.8308 from `sub29_zaoui_public_scale115_clip100_keep020.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.

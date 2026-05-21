@@ -1,4 +1,7 @@
 fileName,date_utc,description,status,publicScore
+sub29_zaoui_public_scale115_clip100_keep020.csv,2026-05-21 03:21:38.510000,sub29 zaoui public scale1.15 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8308
+sub28_zaoui_public_scale1145_clip100_keep020.csv,2026-05-20 02:46:52.033000,sub28 zaoui public scale1.145 clip1.0 keep0.20,SubmissionStatus.COMPLETE,246.8359
+sub27_zaoui_public_scale11414_keep020.csv,2026-05-20 02:43:38.607000,sub27 zaoui public scale1.1414 keep0.20,SubmissionStatus.COMPLETE,246.8409
 sub26_zaoui_public_scale114125_keep020.csv,2026-05-19 04:53:11.693000,sub26 zaoui public scale1.14125 keep0.20,SubmissionStatus.COMPLETE,246.8412
 sub25_zaoui_public_scale1141_keep020.csv,2026-05-19 04:49:16.643000,sub25 zaoui public scale1.141 keep0.20,SubmissionStatus.COMPLETE,246.8416
 sub24_zaoui_public_scale114_keep020.csv,2026-05-18 05:52:21.630000,sub24 zaoui public scale1.14 keep0.20,SubmissionStatus.COMPLETE,246.8434
