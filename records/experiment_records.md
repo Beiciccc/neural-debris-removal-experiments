@@ -37,6 +37,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-21 03:21:38.510000 | `sub29_zaoui_public_scale115_clip100_keep020.csv` | sub29 zaoui public scale1.15 clip1.00 keep0.20 | COMPLETE | 246.8308 |
 | 2026-05-21 03:22:53.223000 | `sub30_zaoui_public_scale116_clip100_keep020.csv` | sub30 zaoui public scale1.16 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-22 03:22:05.007000 | `sub31_zaoui_public_scale118_clip100_keep020.csv` | sub31 gpu-grid zaoui public scale1.18 clip1.00 keep0.20 | COMPLETE | 246.8331 |
+| 2026-05-22 03:23:18.883000 | `sub32_zaoui_public_scale120_clip100_keep020.csv` | sub32 gpu-grid zaoui public scale1.20 clip1.00 keep0.20 | COMPLETE | 246.9748 |
 
 ## Candidate Direction Notes
 
