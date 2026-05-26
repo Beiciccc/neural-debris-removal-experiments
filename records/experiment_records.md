@@ -44,6 +44,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-24 06:48:20.477000 | `sub36_kalyan_balanced_v4_pow050_thr008.csv` | sub36 kalyan balanced v4 pow0.50 thr0.08 | COMPLETE | 280.2114 |
 | 2026-05-25 07:46:27.633000 | `sub37_zaoui_public_scale115875_clip100_keep020.csv` | sub37 zaoui public scale1.15875 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-25 07:47:45.603000 | `sub38_zaoui_public_scale11575_clip100_keep020.csv` | sub38 zaoui public scale1.1575 clip1.00 keep0.20 | COMPLETE | 246.8248 |
+| 2026-05-26 09:03:21.937000 | `sub39_zaoui_public_scale1159375_clip100_keep020.csv` | sub39 zaoui public scale1.159375 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 
 ## Candidate Direction Notes
 
