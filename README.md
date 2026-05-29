@@ -8,7 +8,7 @@ This repository is intentionally limited to project introduction, experiment rec
 
 ## Current Public Result Snapshot
 
-Best public score recorded in this snapshot: **246.3590** from `sub44_zaoui_public_scale1160625_drop0233.csv`. Lower is better.
+Best public score recorded in this snapshot: **246.1252** from `sub47_zaoui_public_scale1160625_drop023375.csv`. Lower is better.
 
 ## Contents
 
