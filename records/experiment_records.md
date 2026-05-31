@@ -52,6 +52,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-28 23:43:22.577000 | `sub44_zaoui_public_scale1160625_drop0233.csv` | sub44 zaoui public scale1.160625 drop0.233 | COMPLETE | 246.3590 |
 | 2026-05-29 11:14:31.203000 | `sub47_zaoui_public_scale1160625_drop023375.csv` | sub47 zaoui public scale1.160625 drop0.23375 | COMPLETE | 246.1252 |
 | 2026-05-29 11:15:53.223000 | `sub45_zaoui_public_scale1160625_drop0234.csv` | sub45 zaoui public scale1.160625 drop0.234 | COMPLETE | 246.1784 |
+| 2026-05-31 05:06:28.123000 | `sub49_zaoui_public_scale1160625_drop023380.csv` | sub49 zaoui public scale1.160625 drop0.23380 | COMPLETE | 246.1252 |
 
 ## Candidate Direction Notes
 
