@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-04-30 21:01:28.143000 | `sub02_baseline_it20_scale095_drop020.csv` | sub02 baseline it20 confidence scale 0.95 drop <=0.2 | COMPLETE | 255.5143 |
 | 2026-05-01 04:53:06.653000 | `sub03_post_scale093_drop020_from_sub01.csv` | sub03 postprocess sub01 confidence scale 0.93 drop <=0.2 | COMPLETE | 254.1299 |
 | 2026-05-01 04:55:05.233000 | `sub04_post_scale090_drop020_from_sub01.csv` | sub04 postprocess sub01 confidence scale 0.90 drop <=0.2 | COMPLETE | 253.5141 |
 | 2026-05-02 16:23:25.423000 | `sub05_zaoui_public_prune015_ewc50.csv` | sub05 zaoui public prune0.15 ewc50 | COMPLETE | 247.4372 |
@@ -54,6 +53,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-05-31 05:06:28.123000 | `sub49_zaoui_public_scale1160625_drop023380.csv` | sub49 zaoui public scale1.160625 drop0.23380 | COMPLETE | 246.1252 |
 | 2026-05-31 05:10:05 | `sub49_zaoui_public_scale1160625_drop02338.csv` | sub49 zaoui public scale1.160625 drop0.23380 | COMPLETE | 246.1252 |
 | 2026-06-01 01:26:34.197000 | `sub50_zaoui_public_scale1160625_drop023370.csv` | sub50 zaoui public scale1.160625 drop0.23370 | COMPLETE | 246.3590 |
+| 2026-06-01 01:46:36.347000 | `sub52_kalyan_yusaku_balanced_v4_pow050_thr012.csv` | sub52 kalyan/yusaku balanced v4 pow0.50 thr0.12 | COMPLETE | 272.4936 |
 
 ## Candidate Direction Notes
 
