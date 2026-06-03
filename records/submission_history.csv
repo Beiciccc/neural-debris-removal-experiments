@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub55_zaoui_public_scale1160625_drop023396.csv,2026-06-03 04:22:30.827000,sub55 zaoui public scale1.160625 drop0.23396,SubmissionStatus.COMPLETE,246.1784
 sub51_zaoui_public_scale1160625_drop023395.csv,2026-06-02 00:57:47,sub51 zaoui public scale1.160625 drop0.23395,SubmissionStatus.COMPLETE,246.1252
 sub54_zaoui_public_scale1160625_drop0233925.csv,2026-06-02 00:51:49,sub54 zaoui public scale1.160625 drop0.233925,SubmissionStatus.COMPLETE,246.1252
 sub52_kalyan_yusaku_balanced_v4_pow050_thr012.csv,2026-06-01 01:46:36.347000,sub52 kalyan/yusaku balanced v4 pow0.50 thr0.12,SubmissionStatus.COMPLETE,272.4936
@@ -48,4 +49,3 @@ sub10_zaoui_public_scale103_drop020.csv,2026-05-05 07:53:30,sub10 zaoui public s
 sub09_zaoui_public_scale102_keep020.csv,2026-05-03 22:14:32.763000,sub09 zaoui public scale1.02 keep0.20,SubmissionStatus.COMPLETE,247.2900
 sub08_zaoui_prune0125_real_ewc50.csv,2026-05-03 22:13:01,sub08 zaoui prune0.125 ewc50,SubmissionStatus.COMPLETE,248.3809
 sub06_zaoui_public_scale095_drop020.csv,2026-05-02 16:25:14,sub06 zaoui public scale0.95 drop0.20,SubmissionStatus.COMPLETE,247.9043
-sub05_zaoui_public_prune015_ewc50.csv,2026-05-02 16:23:25.423000,sub05 zaoui public prune0.15 ewc50,SubmissionStatus.COMPLETE,247.4372
