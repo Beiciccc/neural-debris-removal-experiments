@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-03 22:13:01 | `sub08_zaoui_prune0125_real_ewc50.csv` | sub08 zaoui prune0.125 ewc50 | COMPLETE | 248.3809 |
 | 2026-05-03 22:14:32.763000 | `sub09_zaoui_public_scale102_keep020.csv` | sub09 zaoui public scale1.02 keep0.20 | COMPLETE | 247.2900 |
 | 2026-05-05 07:53:30 | `sub10_zaoui_public_scale103_drop020.csv` | sub10 zaoui public scale1.03 drop0.20 | COMPLETE | 247.2298 |
 | 2026-05-05 07:55:30.277000 | `sub11_zaoui_public_scale105_keep020.csv` | sub11 zaoui public scale1.05 keep0.20 | COMPLETE | 247.1309 |
@@ -54,6 +53,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-02 00:57:47 | `sub51_zaoui_public_scale1160625_drop023395.csv` | sub51 zaoui public scale1.160625 drop0.23395 | COMPLETE | 246.1252 |
 | 2026-06-03 04:22:30.827000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
 | 2026-06-03 04:23:50.593000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
+| 2026-06-04 01:03:33 | `sub56_zaoui_public_scale1160625_drop0233925_cap0995.csv` | sub56 zaoui public best-tie drop0.233925 cap high conf at 0.995 | COMPLETE | 246.1252 |
 
 ## Candidate Direction Notes
 
