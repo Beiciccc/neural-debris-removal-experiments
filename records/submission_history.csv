@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub57_zaoui_public_scale1160625_drop0233925_cap099.csv,2026-06-04 01:04:57.953000,sub57 zaoui public best-tie drop0.233925 cap high conf at 0.99,SubmissionStatus.COMPLETE,246.1252
 sub56_zaoui_public_scale1160625_drop0233925_cap0995.csv,2026-06-04 01:03:33,sub56 zaoui public best-tie drop0.233925 cap high conf at 0.995,SubmissionStatus.COMPLETE,246.1252
 sub55_zaoui_public_scale1160625_drop023396.csv,2026-06-03 04:23:50.593000,sub55 zaoui public scale1.160625 drop0.23396,SubmissionStatus.COMPLETE,246.1784
 sub55_zaoui_public_scale1160625_drop023396.csv,2026-06-03 04:22:30.827000,sub55 zaoui public scale1.160625 drop0.23396,SubmissionStatus.COMPLETE,246.1784
@@ -48,4 +49,3 @@ sub13_zaoui_public_scale107_keep020.csv,2026-05-06 04:29:30.987000,sub13 zaoui p
 sub12_zaoui_public_scale106_keep020.csv,2026-05-06 04:27:40.807000,sub12 zaoui public scale1.06 keep0.20,SubmissionStatus.COMPLETE,247.0871
 sub11_zaoui_public_scale105_keep020.csv,2026-05-05 07:55:30.277000,sub11 zaoui public scale1.05 keep0.20,SubmissionStatus.COMPLETE,247.1309
 sub10_zaoui_public_scale103_drop020.csv,2026-05-05 07:53:30,sub10 zaoui public scale1.03 drop0.20,SubmissionStatus.COMPLETE,247.2298
-sub09_zaoui_public_scale102_keep020.csv,2026-05-03 22:14:32.763000,sub09 zaoui public scale1.02 keep0.20,SubmissionStatus.COMPLETE,247.2900
