@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-05 07:53:30 | `sub10_zaoui_public_scale103_drop020.csv` | sub10 zaoui public scale1.03 drop0.20 | COMPLETE | 247.2298 |
 | 2026-05-05 07:55:30.277000 | `sub11_zaoui_public_scale105_keep020.csv` | sub11 zaoui public scale1.05 keep0.20 | COMPLETE | 247.1309 |
 | 2026-05-06 04:27:40.807000 | `sub12_zaoui_public_scale106_keep020.csv` | sub12 zaoui public scale1.06 keep0.20 | COMPLETE | 247.0871 |
 | 2026-05-06 04:29:30.987000 | `sub13_zaoui_public_scale107_keep020.csv` | sub13 zaoui public scale1.07 keep0.20 | COMPLETE | 247.0467 |
@@ -54,6 +53,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-03 04:23:50.593000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
 | 2026-06-04 01:03:33 | `sub56_zaoui_public_scale1160625_drop0233925_cap0995.csv` | sub56 zaoui public best-tie drop0.233925 cap high conf at 0.995 | COMPLETE | 246.1252 |
 | 2026-06-04 01:04:57.953000 | `sub57_zaoui_public_scale1160625_drop0233925_cap099.csv` | sub57 zaoui public best-tie drop0.233925 cap high conf at 0.99 | COMPLETE | 246.1252 |
+| 2026-06-05 01:26:35.403000 | `sub58_zaoui_public_drop0233925_softnext2_conf022.csv` | sub58 zaoui sub54 soft next2 boundary conf0.22 | COMPLETE | 246.1284 |
 
 ## Candidate Direction Notes
 
