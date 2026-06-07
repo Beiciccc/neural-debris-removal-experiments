@@ -54,9 +54,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-06 02:48:55 | `sub60_zaoui_public_drop0233925_next2_conf025.csv` | sub60 zaoui sub54 next2 boundary conf0.25 | COMPLETE | 246.1216 |
 | 2026-06-06 02:53:55.053000 | `sub61_zaoui_public_drop0233925_next2_conf030.csv` | sub61 zaoui sub54 next2 boundary conf0.30 | COMPLETE | 246.1102 |
 | 2026-06-07 06:30:30.507000 | `sub62_zaoui_public_drop0233925_next2_conf035.csv` | sub62 zaoui sub54 next2 boundary conf0.35 | COMPLETE | 246.0988 |
+| 2026-06-07 06:32:07.363000 | `sub63_zaoui_public_drop0233925_next2_conf040.csv` | sub63 zaoui sub54 next2 boundary conf0.40 | COMPLETE | 246.0875 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 246.0988 from `sub62_zaoui_public_drop0233925_next2_conf035.csv`.
+- Best recorded public score in this snapshot is 246.0875 from `sub63_zaoui_public_drop0233925_next2_conf040.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
