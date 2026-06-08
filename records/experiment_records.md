@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-07 23:04:48.417000 | `sub15_zaoui_public_scale109_keep020.csv` | sub15 zaoui public scale1.09 keep0.20 fixed-empty | COMPLETE | 246.9702 |
 | 2026-05-12 11:23:13.343000 | `sub16_zaoui_public_scale110_keep020.csv` | sub16 zaoui public scale1.10 keep0.20 | COMPLETE | 246.9381 |
 | 2026-05-12 11:25:05 | `sub17_zaoui_public_scale111_keep020.csv` | sub17 zaoui public scale1.11 keep0.20 | COMPLETE | 246.9080 |
 | 2026-05-13 02:24:36.373000 | `sub18_zaoui_public_scale112_keep020.csv` | sub18 zaoui public scale1.12 keep0.20 | COMPLETE | 246.8837 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-07 06:30:30.507000 | `sub62_zaoui_public_drop0233925_next2_conf035.csv` | sub62 zaoui sub54 next2 boundary conf0.35 | COMPLETE | 246.0988 |
 | 2026-06-07 06:32:07.363000 | `sub63_zaoui_public_drop0233925_next2_conf040.csv` | sub63 zaoui sub54 next2 boundary conf0.40 | COMPLETE | 246.0875 |
 | 2026-06-08 13:26:52.537000 | `sub64_zaoui_public_drop0233925_next2_conf045.csv` | sub64 zaoui sub54 next2 boundary conf0.45 | COMPLETE | 246.0761 |
+| 2026-06-08 13:28:41 | `sub65_zaoui_public_drop0233925_next2_conf050.csv` | sub65 zaoui sub54 next2 boundary conf0.50 | COMPLETE | 246.0648 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 246.0761 from `sub64_zaoui_public_drop0233925_next2_conf045.csv`.
+- Best recorded public score in this snapshot is 246.0648 from `sub65_zaoui_public_drop0233925_next2_conf050.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
