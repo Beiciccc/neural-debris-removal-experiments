@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-12 11:25:05 | `sub17_zaoui_public_scale111_keep020.csv` | sub17 zaoui public scale1.11 keep0.20 | COMPLETE | 246.9080 |
 | 2026-05-13 02:24:36.373000 | `sub18_zaoui_public_scale112_keep020.csv` | sub18 zaoui public scale1.12 keep0.20 | COMPLETE | 246.8837 |
 | 2026-05-13 02:26:33.443000 | `sub19_zaoui_public_scale11225_keep020.csv` | sub19 zaoui public scale1.1225 keep0.20 | COMPLETE | 246.8777 |
 | 2026-05-16 19:52:38.583000 | `sub20_zaoui_public_scale1125_keep020.csv` | sub20 zaoui public scale1.125 keep0.20 | COMPLETE | 246.8721 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-08 13:26:52.537000 | `sub64_zaoui_public_drop0233925_next2_conf045.csv` | sub64 zaoui sub54 next2 boundary conf0.45 | COMPLETE | 246.0761 |
 | 2026-06-08 13:28:41 | `sub65_zaoui_public_drop0233925_next2_conf050.csv` | sub65 zaoui sub54 next2 boundary conf0.50 | COMPLETE | 246.0648 |
 | 2026-06-09 02:43:26.987000 | `sub66_zaoui_public_drop0233925_next2_conf055.csv` | sub66 zaoui sub54 next2 boundary conf0.55 | COMPLETE | 246.0643 |
+| 2026-06-09 02:44:55 | `sub67_zaoui_public_drop0233925_next2_conf060.csv` | sub67 zaoui sub54 next2 boundary conf0.60 | COMPLETE | 246.0866 |
 
 ## Candidate Direction Notes
 

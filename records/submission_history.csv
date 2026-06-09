@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub67_zaoui_public_drop0233925_next2_conf060.csv,2026-06-09 02:44:55,sub67 zaoui sub54 next2 boundary conf0.60,SubmissionStatus.COMPLETE,246.0866
 sub66_zaoui_public_drop0233925_next2_conf055.csv,2026-06-09 02:43:26.987000,sub66 zaoui sub54 next2 boundary conf0.55,SubmissionStatus.COMPLETE,246.0643
 sub65_zaoui_public_drop0233925_next2_conf050.csv,2026-06-08 13:28:41,sub65 zaoui sub54 next2 boundary conf0.50,SubmissionStatus.COMPLETE,246.0648
 sub64_zaoui_public_drop0233925_next2_conf045.csv,2026-06-08 13:26:52.537000,sub64 zaoui sub54 next2 boundary conf0.45,SubmissionStatus.COMPLETE,246.0761
@@ -48,4 +49,3 @@ sub21_zaoui_public_scale113_drop025.csv,2026-05-16 19:54:02.213000,sub21 zaoui p
 sub20_zaoui_public_scale1125_keep020.csv,2026-05-16 19:52:38.583000,sub20 zaoui public scale1.125 keep0.20,SubmissionStatus.COMPLETE,246.8721
 sub19_zaoui_public_scale11225_keep020.csv,2026-05-13 02:26:33.443000,sub19 zaoui public scale1.1225 keep0.20,SubmissionStatus.COMPLETE,246.8777
 sub18_zaoui_public_scale112_keep020.csv,2026-05-13 02:24:36.373000,sub18 zaoui public scale1.12 keep0.20,SubmissionStatus.COMPLETE,246.8837
-sub17_zaoui_public_scale111_keep020.csv,2026-05-12 11:25:05,sub17 zaoui public scale1.11 keep0.20,SubmissionStatus.COMPLETE,246.9080
