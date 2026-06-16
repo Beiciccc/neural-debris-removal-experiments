@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-21 03:22:53.223000 | `sub30_zaoui_public_scale116_clip100_keep020.csv` | sub30 zaoui public scale1.16 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-22 03:22:05.007000 | `sub31_zaoui_public_scale118_clip100_keep020.csv` | sub31 gpu-grid zaoui public scale1.18 clip1.00 keep0.20 | COMPLETE | 246.8331 |
 | 2026-05-22 03:23:18.883000 | `sub32_zaoui_public_scale120_clip100_keep020.csv` | sub32 gpu-grid zaoui public scale1.20 clip1.00 keep0.20 | COMPLETE | 246.9748 |
 | 2026-05-23 05:02:24.253000 | `sub33_zaoui_public_scale11625_clip100_keep020.csv` | sub33 fine-grid zaoui public scale1.1625 clip1.00 keep0.20 | COMPLETE | 246.8246 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-15 02:50:54.037000 | `sub78_zaoui_public_drop0233925_next2_conf0533625.csv` | sub78 zaoui sub54 next2 boundary conf0.533625 | COMPLETE | 246.0571 |
 | 2026-06-15 02:53:53 | `sub79_zaoui_public_drop0233925_next2_conf0533875.csv` | sub79 zaoui sub54 next2 boundary conf0.533875 | COMPLETE | 246.0571 |
 | 2026-06-16 04:52:33.197000 | `sub80_zaoui_public_drop0233925_next2_asym1191hi.csv` | sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375 | COMPLETE | 246.0571 |
+| 2026-06-16 04:53:54 | `sub81_zaoui_public_drop0233925_next2_asym879hi.csv` | sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534 | COMPLETE | 246.0571 |
 
 ## Candidate Direction Notes
 
