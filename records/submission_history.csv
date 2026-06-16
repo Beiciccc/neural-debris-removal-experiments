@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub80_zaoui_public_drop0233925_next2_asym1191hi.csv,2026-06-16 04:52:33.197000,sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375,SubmissionStatus.COMPLETE,246.0571
 sub79_zaoui_public_drop0233925_next2_conf0533875.csv,2026-06-15 02:53:53,sub79 zaoui sub54 next2 boundary conf0.533875,SubmissionStatus.COMPLETE,246.0571
 sub78_zaoui_public_drop0233925_next2_conf0533625.csv,2026-06-15 02:50:54.037000,sub78 zaoui sub54 next2 boundary conf0.533625,SubmissionStatus.COMPLETE,246.0571
 sub77_zaoui_public_drop0233925_next2_conf053425.csv,2026-06-14 18:14:26.327000,sub77 zaoui sub54 next2 boundary conf0.53425,SubmissionStatus.COMPLETE,246.0572
@@ -48,4 +49,3 @@ sub33_zaoui_public_scale11625_clip100_keep020.csv,2026-05-23 05:02:24.253000,sub
 sub32_zaoui_public_scale120_clip100_keep020.csv,2026-05-22 03:23:18.883000,sub32 gpu-grid zaoui public scale1.20 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.9748
 sub31_zaoui_public_scale118_clip100_keep020.csv,2026-05-22 03:22:05.007000,sub31 gpu-grid zaoui public scale1.18 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8331
 sub30_zaoui_public_scale116_clip100_keep020.csv,2026-05-21 03:22:53.223000,sub30 zaoui public scale1.16 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8245
-sub29_zaoui_public_scale115_clip100_keep020.csv,2026-05-21 03:21:38,sub29 zaoui public scale1.15 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8308
