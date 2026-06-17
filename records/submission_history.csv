@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub82_zaoui_public_drop0233925_next2_conf05338125.csv,2026-06-17 10:24:47,sub82 zaoui sub54 next2 boundary conf0.5338125,SubmissionStatus.COMPLETE,246.0571
 sub81_zaoui_public_drop0233925_next2_asym879hi.csv,2026-06-16 04:53:54,sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534,SubmissionStatus.COMPLETE,246.0571
 sub80_zaoui_public_drop0233925_next2_asym1191hi.csv,2026-06-16 04:52:33.197000,sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375,SubmissionStatus.COMPLETE,246.0571
 sub79_zaoui_public_drop0233925_next2_conf0533875.csv,2026-06-15 02:53:53,sub79 zaoui sub54 next2 boundary conf0.533875,SubmissionStatus.COMPLETE,246.0571
@@ -48,4 +49,3 @@ sub35_kalyan_balanced_v4_pow050_thr010.csv,2026-05-24 06:47:07.573000,sub35 kaly
 sub34_zaoui_public_scale1165_clip100_keep020.csv,2026-05-23 05:03:49.723000,sub34 fine-grid zaoui public scale1.165 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8247
 sub33_zaoui_public_scale11625_clip100_keep020.csv,2026-05-23 05:02:24.253000,sub33 fine-grid zaoui public scale1.1625 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8246
 sub32_zaoui_public_scale120_clip100_keep020.csv,2026-05-22 03:23:18.883000,sub32 gpu-grid zaoui public scale1.20 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.9748
-sub31_zaoui_public_scale118_clip100_keep020.csv,2026-05-22 03:22:05.007000,sub31 gpu-grid zaoui public scale1.18 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8331
