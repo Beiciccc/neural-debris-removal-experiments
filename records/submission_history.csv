@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub84_jayhawk_prune_ewc_public24342.csv,2026-06-19 03:03:44.577000,sub84 jayhawk public pruning ewc output 24342,SubmissionStatus.COMPLETE,247.8306
 sub83_zaoui_public_drop0233925_next2_conf05336875.csv,2026-06-17 10:26:15,sub83 zaoui sub54 next2 boundary conf0.5336875,SubmissionStatus.COMPLETE,246.0571
 sub82_zaoui_public_drop0233925_next2_conf05338125.csv,2026-06-17 10:24:47,sub82 zaoui sub54 next2 boundary conf0.5338125,SubmissionStatus.COMPLETE,246.0571
 sub81_zaoui_public_drop0233925_next2_asym879hi.csv,2026-06-16 04:53:54,sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534,SubmissionStatus.COMPLETE,246.0571
@@ -48,4 +49,3 @@ sub37_zaoui_public_scale115875_clip100_keep020.csv,2026-05-25 07:46:27.633000,su
 sub36_kalyan_balanced_v4_pow050_thr008.csv,2026-05-24 06:48:20.477000,sub36 kalyan balanced v4 pow0.50 thr0.08,SubmissionStatus.COMPLETE,280.2114
 sub35_kalyan_balanced_v4_pow050_thr010.csv,2026-05-24 06:47:07.573000,sub35 kalyan balanced v4 pow0.50 thr0.10,SubmissionStatus.COMPLETE,273.8003
 sub34_zaoui_public_scale1165_clip100_keep020.csv,2026-05-23 05:03:49.723000,sub34 fine-grid zaoui public scale1.165 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8247
-sub33_zaoui_public_scale11625_clip100_keep020.csv,2026-05-23 05:02:24.253000,sub33 fine-grid zaoui public scale1.1625 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8246
