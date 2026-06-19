@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-23 05:03:49.723000 | `sub34_zaoui_public_scale1165_clip100_keep020.csv` | sub34 fine-grid zaoui public scale1.165 clip1.00 keep0.20 | COMPLETE | 246.8247 |
 | 2026-05-24 06:47:07.573000 | `sub35_kalyan_balanced_v4_pow050_thr010.csv` | sub35 kalyan balanced v4 pow0.50 thr0.10 | COMPLETE | 273.8003 |
 | 2026-05-24 06:48:20.477000 | `sub36_kalyan_balanced_v4_pow050_thr008.csv` | sub36 kalyan balanced v4 pow0.50 thr0.08 | COMPLETE | 280.2114 |
 | 2026-05-25 07:46:27.633000 | `sub37_zaoui_public_scale115875_clip100_keep020.csv` | sub37 zaoui public scale1.15875 clip1.00 keep0.20 | COMPLETE | 246.8245 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-17 10:24:47 | `sub82_zaoui_public_drop0233925_next2_conf05338125.csv` | sub82 zaoui sub54 next2 boundary conf0.5338125 | COMPLETE | 246.0571 |
 | 2026-06-17 10:26:15 | `sub83_zaoui_public_drop0233925_next2_conf05336875.csv` | sub83 zaoui sub54 next2 boundary conf0.5336875 | COMPLETE | 246.0571 |
 | 2026-06-19 03:03:44.577000 | `sub84_jayhawk_prune_ewc_public24342.csv` | sub84 jayhawk public pruning ewc output 24342 | COMPLETE | 247.8306 |
+| 2026-06-19 03:06:42 | `sub85_jayhawk_prune_ewc_unlearn20_scale030.csv` | sub85 jayhawk output unlearn20 confidence scale0.30 | COMPLETE | 248.4863 |
 
 ## Candidate Direction Notes
 
