@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-25 07:47:45.603000 | `sub38_zaoui_public_scale11575_clip100_keep020.csv` | sub38 zaoui public scale1.1575 clip1.00 keep0.20 | COMPLETE | 246.8248 |
 | 2026-05-26 09:03:21.937000 | `sub39_zaoui_public_scale1159375_clip100_keep020.csv` | sub39 zaoui public scale1.159375 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-26 09:05:19.287000 | `sub40_zaoui_public_scale1160625_clip100_keep020.csv` | sub40 zaoui public scale1.160625 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-27 09:03:48 | `sub41_zaoui_public_scale1160625_boxscale1005_keep020.csv` | sub41 zaoui public scale1.160625 boxscale1.005 keep0.20 | COMPLETE | 247.0448 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-20 03:04:12.323000 | `sub86_zaoui_sub83_next1_img73_conf053375.csv` | sub86 zaoui sub83 next1 image73 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-20 03:10:27.387000 | `sub87_zaoui_sub83_next1_img804_conf053375.csv` | sub87 zaoui sub83 next1 image804 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-21 08:09:57.203000 | `sub88_zaoui_sub83_pair_img73_804_conf053375.csv` | sub88 zaoui sub83 paired image73+804 conf0.53375 | COMPLETE | 246.0571 |
+| 2026-06-21 08:11:42.067000 | `sub89_zaoui_sub83_next1_img1066_conf053375.csv` | sub89 zaoui sub83 next image1066 conf0.53375 | COMPLETE | 246.0571 |
 
 ## Candidate Direction Notes
 
