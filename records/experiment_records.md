@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-26 09:03:21.937000 | `sub39_zaoui_public_scale1159375_clip100_keep020.csv` | sub39 zaoui public scale1.159375 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-26 09:05:19.287000 | `sub40_zaoui_public_scale1160625_clip100_keep020.csv` | sub40 zaoui public scale1.160625 clip1.00 keep0.20 | COMPLETE | 246.8245 |
 | 2026-05-27 09:03:48 | `sub41_zaoui_public_scale1160625_boxscale1005_keep020.csv` | sub41 zaoui public scale1.160625 boxscale1.005 keep0.20 | COMPLETE | 247.0448 |
 | 2026-05-27 09:10:01 | `sub42_zaoui_public_scale1160625_boxscale0995_keep020.csv` | sub42 zaoui public scale1.160625 boxscale0.995 keep0.20 | COMPLETE | 246.9182 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-20 03:10:27.387000 | `sub87_zaoui_sub83_next1_img804_conf053375.csv` | sub87 zaoui sub83 next1 image804 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-21 08:09:57.203000 | `sub88_zaoui_sub83_pair_img73_804_conf053375.csv` | sub88 zaoui sub83 paired image73+804 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-21 08:11:42.067000 | `sub89_zaoui_sub83_next1_img1066_conf053375.csv` | sub89 zaoui sub83 next image1066 conf0.53375 | COMPLETE | 246.0571 |
+| 2026-06-22 12:13:17.877000 | `sub90_nomannic_cv_debris_direct_2453014.csv` | sub90 nomannic cv debris direct output 245.3014 listing | COMPLETE | 245.3014 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 246.0571 from `sub75_zaoui_public_drop0233925_next2_conf0534.csv`.
+- Best recorded public score in this snapshot is 245.3014 from `sub90_nomannic_cv_debris_direct_2453014.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
