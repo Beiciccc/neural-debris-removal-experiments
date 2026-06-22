@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub91_nomannic_cv_debris_direct_conf023.csv,2026-06-22 12:15:34.853000,sub91 nomannic direct output conf>=0.23 filter,SubmissionStatus.COMPLETE,245.1886
 sub90_nomannic_cv_debris_direct_2453014.csv,2026-06-22 12:13:17.877000,sub90 nomannic cv debris direct output 245.3014 listing,SubmissionStatus.COMPLETE,245.3014
 sub89_zaoui_sub83_next1_img1066_conf053375.csv,2026-06-21 08:11:42.067000,sub89 zaoui sub83 next image1066 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub88_zaoui_sub83_pair_img73_804_conf053375.csv,2026-06-21 08:09:57.203000,sub88 zaoui sub83 paired image73+804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
@@ -48,4 +49,3 @@ sub44_zaoui_public_scale1160625_drop0233.csv,2026-05-28 23:43:22.577000,sub44 za
 sub43_zaoui_public_scale1160625_cap099_keep020.csv,2026-05-28 23:38:15.903000,sub43 zaoui public scale1.160625 cap0.99 keep0.20,SubmissionStatus.COMPLETE,246.8245
 sub42_zaoui_public_scale1160625_boxscale0995_keep020.csv,2026-05-27 09:10:01,sub42 zaoui public scale1.160625 boxscale0.995 keep0.20,SubmissionStatus.COMPLETE,246.9182
 sub41_zaoui_public_scale1160625_boxscale1005_keep020.csv,2026-05-27 09:03:48,sub41 zaoui public scale1.160625 boxscale1.005 keep0.20,SubmissionStatus.COMPLETE,247.0448
-sub40_zaoui_public_scale1160625_clip100_keep020.csv,2026-05-26 09:05:19.287000,sub40 zaoui public scale1.160625 clip1.00 keep0.20,SubmissionStatus.COMPLETE,246.8245

@@ -8,7 +8,7 @@ This repository is intentionally limited to project introduction, experiment rec
 
 ## Current Public Result Snapshot
 
-Best public score recorded in this snapshot: **245.3014** from `sub90_nomannic_cv_debris_direct_2453014.csv`. Lower is better.
+Best public score recorded in this snapshot: **245.1886** from `sub91_nomannic_cv_debris_direct_conf023.csv`. Lower is better.
 
 ## Contents
 
