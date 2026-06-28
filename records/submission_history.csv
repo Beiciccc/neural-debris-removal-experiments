@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub99_nomannic_cv_debris_direct_conf02270.csv,2026-06-28 23:07:06.123000,sub99 nomannic direct output conf>0.227 filter,SubmissionStatus.COMPLETE,244.1423
 sub97_nomannic_cv_debris_direct_conf02265.csv,2026-06-24 12:17:47.547000,sub97 nomannic direct output conf>=0.2265 filter,SubmissionStatus.COMPLETE,244.3692
 sub95_nomannic_cv_debris_direct_conf0226.csv,2026-06-24 12:14:42.827000,sub95 nomannic direct output conf>=0.226 filter,SubmissionStatus.COMPLETE,244.5955
 sub94_nomannic_cv_debris_direct_conf0225.csv,2026-06-23 12:16:54,sub94 nomannic direct output conf>=0.225 filter,SubmissionStatus.COMPLETE,244.9947
@@ -48,4 +49,3 @@ sub50_zaoui_public_scale1160625_drop023370.csv,2026-06-01 01:26:34.197000,sub50 
 sub49_zaoui_public_scale1160625_drop02338.csv,2026-05-31 05:10:05,sub49 zaoui public scale1.160625 drop0.23380,SubmissionStatus.COMPLETE,246.1252
 sub49_zaoui_public_scale1160625_drop023380.csv,2026-05-31 05:06:28.123000,sub49 zaoui public scale1.160625 drop0.23380,SubmissionStatus.COMPLETE,246.1252
 sub45_zaoui_public_scale1160625_drop0234.csv,2026-05-29 11:15:53.223000,sub45 zaoui public scale1.160625 drop0.234,SubmissionStatus.COMPLETE,246.1784
-sub47_zaoui_public_scale1160625_drop023375.csv,2026-05-29 11:14:31.203000,sub47 zaoui public scale1.160625 drop0.23375,SubmissionStatus.COMPLETE,246.1252

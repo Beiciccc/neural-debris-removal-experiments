@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-05-29 11:14:31.203000 | `sub47_zaoui_public_scale1160625_drop023375.csv` | sub47 zaoui public scale1.160625 drop0.23375 | COMPLETE | 246.1252 |
 | 2026-05-29 11:15:53.223000 | `sub45_zaoui_public_scale1160625_drop0234.csv` | sub45 zaoui public scale1.160625 drop0.234 | COMPLETE | 246.1784 |
 | 2026-05-31 05:06:28.123000 | `sub49_zaoui_public_scale1160625_drop023380.csv` | sub49 zaoui public scale1.160625 drop0.23380 | COMPLETE | 246.1252 |
 | 2026-05-31 05:10:05 | `sub49_zaoui_public_scale1160625_drop02338.csv` | sub49 zaoui public scale1.160625 drop0.23380 | COMPLETE | 246.1252 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-23 12:16:54 | `sub94_nomannic_cv_debris_direct_conf0225.csv` | sub94 nomannic direct output conf>=0.225 filter | COMPLETE | 244.9947 |
 | 2026-06-24 12:14:42.827000 | `sub95_nomannic_cv_debris_direct_conf0226.csv` | sub95 nomannic direct output conf>=0.226 filter | COMPLETE | 244.5955 |
 | 2026-06-24 12:17:47.547000 | `sub97_nomannic_cv_debris_direct_conf02265.csv` | sub97 nomannic direct output conf>=0.2265 filter | COMPLETE | 244.3692 |
+| 2026-06-28 23:07:06.123000 | `sub99_nomannic_cv_debris_direct_conf02270.csv` | sub99 nomannic direct output conf>0.227 filter | COMPLETE | 244.1423 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 244.3692 from `sub97_nomannic_cv_debris_direct_conf02265.csv`.
+- Best recorded public score in this snapshot is 244.1423 from `sub99_nomannic_cv_debris_direct_conf02270.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
