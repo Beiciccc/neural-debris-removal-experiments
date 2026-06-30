@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub106_nomannic_cv_debris_direct_sub104_img1409_conf050.csv,2026-06-30 23:17:17.827000,sub106 sub104 image1409 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.0409
 sub104_nomannic_cv_debris_direct_conf022730.csv,2026-06-30 23:13:43.123000,sub104 nomannic direct output conf>0.22730 filter,SubmissionStatus.COMPLETE,244.1423
 sub105_nomannic_cv_debris_direct_conf0226875.csv,2026-06-29 23:14:25.873000,sub105 nomannic direct output conf>0.226875 filter,SubmissionStatus.COMPLETE,244.3692
 sub103_nomannic_cv_debris_direct_conf022725.csv,2026-06-29 23:07:34,sub103 nomannic direct output conf>0.22725 filter,SubmissionStatus.COMPLETE,244.1423
@@ -48,4 +49,3 @@ sub55_zaoui_public_scale1160625_drop023396.csv,2026-06-03 04:23:50.593000,sub55 
 sub55_zaoui_public_scale1160625_drop023396.csv,2026-06-03 04:22:30.827000,sub55 zaoui public scale1.160625 drop0.23396,SubmissionStatus.COMPLETE,246.1784
 sub51_zaoui_public_scale1160625_drop023395.csv,2026-06-02 00:57:47,sub51 zaoui public scale1.160625 drop0.23395,SubmissionStatus.COMPLETE,246.1252
 sub54_zaoui_public_scale1160625_drop0233925.csv,2026-06-02 00:51:49,sub54 zaoui public scale1.160625 drop0.233925,SubmissionStatus.COMPLETE,246.1252
-sub52_kalyan_yusaku_balanced_v4_pow050_thr012.csv,2026-06-01 01:46:36.347000,sub52 kalyan/yusaku balanced v4 pow0.50 thr0.12,SubmissionStatus.COMPLETE,272.4936

@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-01 01:46:36.347000 | `sub52_kalyan_yusaku_balanced_v4_pow050_thr012.csv` | sub52 kalyan/yusaku balanced v4 pow0.50 thr0.12 | COMPLETE | 272.4936 |
 | 2026-06-02 00:51:49 | `sub54_zaoui_public_scale1160625_drop0233925.csv` | sub54 zaoui public scale1.160625 drop0.233925 | COMPLETE | 246.1252 |
 | 2026-06-02 00:57:47 | `sub51_zaoui_public_scale1160625_drop023395.csv` | sub51 zaoui public scale1.160625 drop0.23395 | COMPLETE | 246.1252 |
 | 2026-06-03 04:22:30.827000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-29 23:07:34 | `sub103_nomannic_cv_debris_direct_conf022725.csv` | sub103 nomannic direct output conf>0.22725 filter | COMPLETE | 244.1423 |
 | 2026-06-29 23:14:25.873000 | `sub105_nomannic_cv_debris_direct_conf0226875.csv` | sub105 nomannic direct output conf>0.226875 filter | COMPLETE | 244.3692 |
 | 2026-06-30 23:13:43.123000 | `sub104_nomannic_cv_debris_direct_conf022730.csv` | sub104 nomannic direct output conf>0.22730 filter | COMPLETE | 244.1423 |
+| 2026-06-30 23:17:17.827000 | `sub106_nomannic_cv_debris_direct_sub104_img1409_conf050.csv` | sub106 sub104 image1409 boundary box confidence 0.50 | COMPLETE | 244.0409 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 244.1423 from `sub99_nomannic_cv_debris_direct_conf02270.csv`.
+- Best recorded public score in this snapshot is 244.0409 from `sub106_nomannic_cv_debris_direct_sub104_img1409_conf050.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
