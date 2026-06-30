@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-01 01:26:34.197000 | `sub50_zaoui_public_scale1160625_drop023370.csv` | sub50 zaoui public scale1.160625 drop0.23370 | COMPLETE | 246.3590 |
 | 2026-06-01 01:46:36.347000 | `sub52_kalyan_yusaku_balanced_v4_pow050_thr012.csv` | sub52 kalyan/yusaku balanced v4 pow0.50 thr0.12 | COMPLETE | 272.4936 |
 | 2026-06-02 00:51:49 | `sub54_zaoui_public_scale1160625_drop0233925.csv` | sub54 zaoui public scale1.160625 drop0.233925 | COMPLETE | 246.1252 |
 | 2026-06-02 00:57:47 | `sub51_zaoui_public_scale1160625_drop023395.csv` | sub51 zaoui public scale1.160625 drop0.23395 | COMPLETE | 246.1252 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-28 23:12:57.927000 | `sub100_nomannic_cv_debris_direct_conf02275.csv` | sub100 nomannic direct output conf>0.2275 filter | COMPLETE | 244.2767 |
 | 2026-06-29 23:07:34 | `sub103_nomannic_cv_debris_direct_conf022725.csv` | sub103 nomannic direct output conf>0.22725 filter | COMPLETE | 244.1423 |
 | 2026-06-29 23:14:25.873000 | `sub105_nomannic_cv_debris_direct_conf0226875.csv` | sub105 nomannic direct output conf>0.226875 filter | COMPLETE | 244.3692 |
+| 2026-06-30 23:13:43.123000 | `sub104_nomannic_cv_debris_direct_conf022730.csv` | sub104 nomannic direct output conf>0.22730 filter | COMPLETE | 244.1423 |
 
 ## Candidate Direction Notes
 
