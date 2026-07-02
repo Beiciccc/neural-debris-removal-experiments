@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-02 00:57:47 | `sub51_zaoui_public_scale1160625_drop023395.csv` | sub51 zaoui public scale1.160625 drop0.23395 | COMPLETE | 246.1252 |
 | 2026-06-03 04:22:30.827000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
 | 2026-06-03 04:23:50.593000 | `sub55_zaoui_public_scale1160625_drop023396.csv` | sub55 zaoui public scale1.160625 drop0.23396 | COMPLETE | 246.1784 |
 | 2026-06-04 01:03:33 | `sub56_zaoui_public_scale1160625_drop0233925_cap0995.csv` | sub56 zaoui public best-tie drop0.233925 cap high conf at 0.995 | COMPLETE | 246.1252 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-06-30 23:13:43.123000 | `sub104_nomannic_cv_debris_direct_conf022730.csv` | sub104 nomannic direct output conf>0.22730 filter | COMPLETE | 244.1423 |
 | 2026-06-30 23:17:17.827000 | `sub106_nomannic_cv_debris_direct_sub104_img1409_conf050.csv` | sub106 sub104 image1409 boundary box confidence 0.50 | COMPLETE | 244.0409 |
 | 2026-07-01 23:14:11.907000 | `sub107_nomannic_sub106_img1409_conf070.csv` | sub107 sub106 image1409 boundary box confidence 0.70 | COMPLETE | 244.0978 |
+| 2026-07-02 03:06:36.333000 | `sub109_nomannic_sub106_img1409_conf060.csv` | sub109 sub106 image1409 boundary box confidence 0.60 | COMPLETE | 244.0693 |
 
 ## Candidate Direction Notes
 
