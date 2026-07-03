@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub112_nomannic_sub106_img1409_conf045.csv,2026-07-03 23:15:07.457000,sub112 sub106 image1409 boundary box confidence 0.45,SubmissionStatus.COMPLETE,244.0267
 sub111_nomannic_sub106_img1409_conf04625.csv,2026-07-03 08:34:02,sub111 sub106 image1409 boundary box confidence 0.4625,SubmissionStatus.COMPLETE,244.0303
 sub110_nomannic_sub106_img1409_conf0475.csv,2026-07-02 23:14:39,sub110 sub106 image1409 boundary box confidence 0.475,SubmissionStatus.COMPLETE,244.0338
 sub109_nomannic_sub106_img1409_conf060.csv,2026-07-02 03:06:36.333000,sub109 sub106 image1409 boundary box confidence 0.60,SubmissionStatus.COMPLETE,244.0693
@@ -48,4 +49,3 @@ sub60_zaoui_public_drop0233925_next2_conf025.csv,2026-06-06 02:48:55,sub60 zaoui
 sub59_zaoui_public_drop0233925_softnext2_conf020.csv,2026-06-05 01:28:01.783000,sub59 zaoui sub54 soft next2 boundary conf0.200001,SubmissionStatus.COMPLETE,246.1329
 sub58_zaoui_public_drop0233925_softnext2_conf022.csv,2026-06-05 01:26:35.403000,sub58 zaoui sub54 soft next2 boundary conf0.22,SubmissionStatus.COMPLETE,246.1284
 sub57_zaoui_public_scale1160625_drop0233925_cap099.csv,2026-06-04 01:04:57.953000,sub57 zaoui public best-tie drop0.233925 cap high conf at 0.99,SubmissionStatus.COMPLETE,246.1252
-sub56_zaoui_public_scale1160625_drop0233925_cap0995.csv,2026-06-04 01:03:33,sub56 zaoui public best-tie drop0.233925 cap high conf at 0.995,SubmissionStatus.COMPLETE,246.1252

@@ -8,7 +8,7 @@ This repository is intentionally limited to project introduction, experiment rec
 
 ## Current Public Result Snapshot
 
-Best public score recorded in this snapshot: **244.0303** from `sub111_nomannic_sub106_img1409_conf04625.csv`. Lower is better.
+Best public score recorded in this snapshot: **244.0267** from `sub112_nomannic_sub106_img1409_conf045.csv`. Lower is better.
 
 ## Contents
 
