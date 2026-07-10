@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-08 13:26:52.537000 | `sub64_zaoui_public_drop0233925_next2_conf045.csv` | sub64 zaoui sub54 next2 boundary conf0.45 | COMPLETE | 246.0761 |
 | 2026-06-08 13:28:41 | `sub65_zaoui_public_drop0233925_next2_conf050.csv` | sub65 zaoui sub54 next2 boundary conf0.50 | COMPLETE | 246.0648 |
 | 2026-06-09 02:43:26.987000 | `sub66_zaoui_public_drop0233925_next2_conf055.csv` | sub66 zaoui sub54 next2 boundary conf0.55 | COMPLETE | 246.0643 |
 | 2026-06-09 02:44:55 | `sub67_zaoui_public_drop0233925_next2_conf060.csv` | sub67 zaoui sub54 next2 boundary conf0.60 | COMPLETE | 246.0866 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-09 09:33:44 | `sub117_nomannic_sub106_img1409_conf0435625.csv` | sub117 sub106 image1409 boundary box confidence 0.435625 | COMPLETE | 244.0226 |
 | 2026-07-09 09:39:05 | `sub118_nomannic_sub106_img1409_conf04348.csv` | sub118 sub106 image1409 boundary box confidence 0.4348 | COMPLETE | 244.0224 |
 | 2026-07-10 09:35:05 | `sub119_nomannic_sub106_img1409_conf0432875.csv` | sub119 sub106 image1409 boundary box confidence 0.432875 | COMPLETE | 244.0219 |
+| 2026-07-10 10:03:47.597000 | `sub120_nomannic_sub106_img1409_conf043269.csv` | sub120 sub106 image1409 boundary box confidence 0.43269 | COMPLETE | 244.0218 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 244.0219 from `sub119_nomannic_sub106_img1409_conf0432875.csv`.
+- Best recorded public score in this snapshot is 244.0218 from `sub120_nomannic_sub106_img1409_conf043269.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.
