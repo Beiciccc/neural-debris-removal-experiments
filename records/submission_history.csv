@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub122_nomannic_sub106_img1409_conf043097.csv,2026-07-11 12:21:38.260000,sub122 sub106 image1409 boundary box confidence 0.43097,SubmissionStatus.COMPLETE,244.0220
 sub121_nomannic_sub106_img1409_conf043139.csv,2026-07-11 12:19:12.257000,sub121 sub106 image1409 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
 sub120_nomannic_sub106_img1409_conf043269.csv,2026-07-10 10:03:47.597000,sub120 sub106 image1409 boundary box confidence 0.43269,SubmissionStatus.COMPLETE,244.0218
 sub119_nomannic_sub106_img1409_conf0432875.csv,2026-07-10 09:35:05.380000,sub119 sub106 image1409 boundary box confidence 0.432875,SubmissionStatus.COMPLETE,244.0219
@@ -48,4 +49,3 @@ sub70_zaoui_public_drop0233925_next2_conf0526.csv,2026-06-11 00:01:07.307000,sub
 sub69_zaoui_public_drop0233925_next2_conf0575.csv,2026-06-10 02:22:41.967000,sub69 zaoui sub54 next2 boundary conf0.575,SubmissionStatus.COMPLETE,246.0754
 sub68_zaoui_public_drop0233925_next2_conf0525.csv,2026-06-10 02:21:18.453000,sub68 zaoui sub54 next2 boundary conf0.525,SubmissionStatus.COMPLETE,246.0591
 sub67_zaoui_public_drop0233925_next2_conf060.csv,2026-06-09 02:44:55.220000,sub67 zaoui sub54 next2 boundary conf0.60,SubmissionStatus.COMPLETE,246.0866
-sub66_zaoui_public_drop0233925_next2_conf055.csv,2026-06-09 02:43:26.987000,sub66 zaoui sub54 next2 boundary conf0.55,SubmissionStatus.COMPLETE,246.0643
