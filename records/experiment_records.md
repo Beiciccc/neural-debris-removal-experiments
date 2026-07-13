@@ -56,6 +56,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-12 12:19:39.837000 | `sub123_nomannic_sub121_add_img10_conf050.csv` | sub123 sub121 add image10 boundary box confidence 0.50 | COMPLETE | 244.0218 |
 | 2026-07-12 12:38:13 | `sub124_nomannic_sub121_add_img10_conf043139.csv` | sub124 sub121 add image10 boundary box confidence 0.43139 | COMPLETE | 244.0218 |
 | 2026-07-13 12:20:08.743000 | `sub125_nomannic_sub121_add_img1378_conf050.csv` | sub125 sub121 add image1378 boundary box confidence 0.50 | COMPLETE | 244.0218 |
+| 2026-07-13 14:06:48.370000 | `sub126_nomannic_sub121_add_img1378_conf043139.csv` | sub126 sub121 add image1378 boundary box confidence 0.43139 | COMPLETE | 244.0218 |
 
 ## Candidate Direction Notes
 
