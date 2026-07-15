@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-13 01:48:29.813000 | `sub74_zaoui_public_drop0233925_next2_conf0533.csv` | sub74 zaoui sub54 next2 boundary conf0.533 | COMPLETE | 246.0573 |
 | 2026-06-13 01:49:52 | `sub75_zaoui_public_drop0233925_next2_conf0534.csv` | sub75 zaoui sub54 next2 boundary conf0.534 | COMPLETE | 246.0571 |
 | 2026-06-14 18:11:23.967000 | `sub76_zaoui_public_drop0233925_next2_conf053375.csv` | sub76 zaoui sub54 next2 boundary conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-14 18:14:26.327000 | `sub77_zaoui_public_drop0233925_next2_conf053425.csv` | sub77 zaoui sub54 next2 boundary conf0.53425 | COMPLETE | 246.0572 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-14 12:31:00.443000 | `sub127_nomannic_sub121_add_img1494_conf050.csv` | sub127 sub121 add image1494 boundary box confidence 0.50 | COMPLETE | 244.5218 |
 | 2026-07-14 14:07:23.047000 | `sub128_nomannic_sub121_add_img1494_conf0226918.csv` | sub128 sub121 add image1494 boundary box confidence 0.226918 | COMPLETE | 244.2487 |
 | 2026-07-15 12:31:49.993000 | `sub129_nomannic_sub121_add_img536_conf050.csv` | sub129 sub121 add image536 boundary box confidence 0.50 | COMPLETE | 244.0218 |
+| 2026-07-15 14:08:12.017000 | `sub130_nomannic_sub121_add_img810_conf0226321.csv` | sub130 sub121 add image810 boundary box confidence 0.226321 | COMPLETE | 244.2481 |
 
 ## Candidate Direction Notes
 
