@@ -1,33 +1,33 @@
 fileName,date_utc,description,status,publicScore
 sub132_nomannic_sub131_add_img1420_conf0225356.csv,2026-07-16 14:08:36.877000,sub132 sub131 add image1420 source box confidence 0.225356,SubmissionStatus.COMPLETE,243.9703
-sub131_nomannic_sub121_img1409_conf043179.csv,2026-07-16 12:32:17,sub131 sub121 image1409 fitted optimum confidence 0.431790,SubmissionStatus.COMPLETE,244.0216
+sub131_nomannic_sub121_img1409_conf043179.csv,2026-07-16 12:32:17.810000,sub131 sub121 image1409 fitted optimum confidence 0.431790,SubmissionStatus.COMPLETE,244.0216
 sub130_nomannic_sub121_add_img810_conf0226321.csv,2026-07-15 14:08:12.017000,sub130 sub121 add image810 boundary box confidence 0.226321,SubmissionStatus.COMPLETE,244.2481
 sub129_nomannic_sub121_add_img536_conf050.csv,2026-07-15 12:31:49.993000,sub129 sub121 add image536 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.0218
 sub128_nomannic_sub121_add_img1494_conf0226918.csv,2026-07-14 14:07:23.047000,sub128 sub121 add image1494 boundary box confidence 0.226918,SubmissionStatus.COMPLETE,244.2487
 sub127_nomannic_sub121_add_img1494_conf050.csv,2026-07-14 12:31:00.443000,sub127 sub121 add image1494 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.5218
-sub126_nomannic_sub121_add_img1378_conf043139.csv,2026-07-13 14:06:48,sub126 sub121 add image1378 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
+sub126_nomannic_sub121_add_img1378_conf043139.csv,2026-07-13 14:06:48.370000,sub126 sub121 add image1378 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
 sub125_nomannic_sub121_add_img1378_conf050.csv,2026-07-13 12:20:08.743000,sub125 sub121 add image1378 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.0218
-sub124_nomannic_sub121_add_img10_conf043139.csv,2026-07-12 12:38:13,sub124 sub121 add image10 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
+sub124_nomannic_sub121_add_img10_conf043139.csv,2026-07-12 12:38:13.720000,sub124 sub121 add image10 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
 sub123_nomannic_sub121_add_img10_conf050.csv,2026-07-12 12:19:39.837000,sub123 sub121 add image10 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.0218
-sub122_nomannic_sub106_img1409_conf043097.csv,2026-07-11 12:21:38,sub122 sub106 image1409 boundary box confidence 0.43097,SubmissionStatus.COMPLETE,244.0220
+sub122_nomannic_sub106_img1409_conf043097.csv,2026-07-11 12:21:38.260000,sub122 sub106 image1409 boundary box confidence 0.43097,SubmissionStatus.COMPLETE,244.0220
 sub121_nomannic_sub106_img1409_conf043139.csv,2026-07-11 12:19:12.257000,sub121 sub106 image1409 boundary box confidence 0.43139,SubmissionStatus.COMPLETE,244.0218
 sub120_nomannic_sub106_img1409_conf043269.csv,2026-07-10 10:03:47.597000,sub120 sub106 image1409 boundary box confidence 0.43269,SubmissionStatus.COMPLETE,244.0218
-sub119_nomannic_sub106_img1409_conf0432875.csv,2026-07-10 09:35:05,sub119 sub106 image1409 boundary box confidence 0.432875,SubmissionStatus.COMPLETE,244.0219
-sub118_nomannic_sub106_img1409_conf04348.csv,2026-07-09 09:39:05,sub118 sub106 image1409 boundary box confidence 0.4348,SubmissionStatus.COMPLETE,244.0224
-sub117_nomannic_sub106_img1409_conf0435625.csv,2026-07-09 09:33:44,sub117 sub106 image1409 boundary box confidence 0.435625,SubmissionStatus.COMPLETE,244.0226
-sub116_nomannic_sub106_img1409_conf043575.csv,2026-07-08 09:36:55,sub116 sub106 image1409 boundary box confidence 0.43575,SubmissionStatus.COMPLETE,244.0227
+sub119_nomannic_sub106_img1409_conf0432875.csv,2026-07-10 09:35:05.380000,sub119 sub106 image1409 boundary box confidence 0.432875,SubmissionStatus.COMPLETE,244.0219
+sub118_nomannic_sub106_img1409_conf04348.csv,2026-07-09 09:39:05.180000,sub118 sub106 image1409 boundary box confidence 0.4348,SubmissionStatus.COMPLETE,244.0224
+sub117_nomannic_sub106_img1409_conf0435625.csv,2026-07-09 09:33:44.800000,sub117 sub106 image1409 boundary box confidence 0.435625,SubmissionStatus.COMPLETE,244.0226
+sub116_nomannic_sub106_img1409_conf043575.csv,2026-07-08 09:36:55.090000,sub116 sub106 image1409 boundary box confidence 0.43575,SubmissionStatus.COMPLETE,244.0227
 sub115_nomannic_sub106_img1409_conf043625.csv,2026-07-08 09:33:17.077000,sub115 sub106 image1409 boundary box confidence 0.43625,SubmissionStatus.COMPLETE,244.0228
 sub114_nomannic_sub106_img1409_conf0425.csv,2026-07-04 23:15:36.263000,sub114 sub106 image1409 boundary box confidence 0.425,SubmissionStatus.COMPLETE,244.0255
 sub113_nomannic_sub106_img1409_conf04375.csv,2026-07-04 08:34:30.897000,sub113 sub106 image1409 boundary box confidence 0.4375,SubmissionStatus.COMPLETE,244.0232
 sub112_nomannic_sub106_img1409_conf045.csv,2026-07-03 23:15:07.457000,sub112 sub106 image1409 boundary box confidence 0.45,SubmissionStatus.COMPLETE,244.0267
-sub111_nomannic_sub106_img1409_conf04625.csv,2026-07-03 08:34:02,sub111 sub106 image1409 boundary box confidence 0.4625,SubmissionStatus.COMPLETE,244.0303
-sub110_nomannic_sub106_img1409_conf0475.csv,2026-07-02 23:14:39,sub110 sub106 image1409 boundary box confidence 0.475,SubmissionStatus.COMPLETE,244.0338
+sub111_nomannic_sub106_img1409_conf04625.csv,2026-07-03 08:34:02.360000,sub111 sub106 image1409 boundary box confidence 0.4625,SubmissionStatus.COMPLETE,244.0303
+sub110_nomannic_sub106_img1409_conf0475.csv,2026-07-02 23:14:39.600000,sub110 sub106 image1409 boundary box confidence 0.475,SubmissionStatus.COMPLETE,244.0338
 sub109_nomannic_sub106_img1409_conf060.csv,2026-07-02 03:06:36.333000,sub109 sub106 image1409 boundary box confidence 0.60,SubmissionStatus.COMPLETE,244.0693
 sub107_nomannic_sub106_img1409_conf070.csv,2026-07-01 23:14:11.907000,sub107 sub106 image1409 boundary box confidence 0.70,SubmissionStatus.COMPLETE,244.0978
 sub106_nomannic_cv_debris_direct_sub104_img1409_conf050.csv,2026-06-30 23:17:17.827000,sub106 sub104 image1409 boundary box confidence 0.50,SubmissionStatus.COMPLETE,244.0409
 sub104_nomannic_cv_debris_direct_conf022730.csv,2026-06-30 23:13:43.123000,sub104 nomannic direct output conf>0.22730 filter,SubmissionStatus.COMPLETE,244.1423
 sub105_nomannic_cv_debris_direct_conf0226875.csv,2026-06-29 23:14:25.873000,sub105 nomannic direct output conf>0.226875 filter,SubmissionStatus.COMPLETE,244.3692
-sub103_nomannic_cv_debris_direct_conf022725.csv,2026-06-29 23:07:34,sub103 nomannic direct output conf>0.22725 filter,SubmissionStatus.COMPLETE,244.1423
+sub103_nomannic_cv_debris_direct_conf022725.csv,2026-06-29 23:07:34.720000,sub103 nomannic direct output conf>0.22725 filter,SubmissionStatus.COMPLETE,244.1423
 sub100_nomannic_cv_debris_direct_conf02275.csv,2026-06-28 23:12:57.927000,sub100 nomannic direct output conf>0.2275 filter,SubmissionStatus.COMPLETE,244.2767
 sub99_nomannic_cv_debris_direct_conf02270.csv,2026-06-28 23:07:06.123000,sub99 nomannic direct output conf>0.227 filter,SubmissionStatus.COMPLETE,244.1423
 sub97_nomannic_cv_debris_direct_conf02265.csv,2026-06-24 12:17:47.547000,sub97 nomannic direct output conf>=0.2265 filter,SubmissionStatus.COMPLETE,244.3692
@@ -40,12 +40,12 @@ sub89_zaoui_sub83_next1_img1066_conf053375.csv,2026-06-21 08:11:42.067000,sub89 
 sub88_zaoui_sub83_pair_img73_804_conf053375.csv,2026-06-21 08:09:57.203000,sub88 zaoui sub83 paired image73+804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub87_zaoui_sub83_next1_img804_conf053375.csv,2026-06-20 03:10:27.387000,sub87 zaoui sub83 next1 image804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub86_zaoui_sub83_next1_img73_conf053375.csv,2026-06-20 03:04:12.323000,sub86 zaoui sub83 next1 image73 conf0.53375,SubmissionStatus.COMPLETE,246.0571
-sub85_jayhawk_prune_ewc_unlearn20_scale030.csv,2026-06-19 03:06:42,sub85 jayhawk output unlearn20 confidence scale0.30,SubmissionStatus.COMPLETE,248.4863
+sub85_jayhawk_prune_ewc_unlearn20_scale030.csv,2026-06-19 03:06:42.860000,sub85 jayhawk output unlearn20 confidence scale0.30,SubmissionStatus.COMPLETE,248.4863
 sub84_jayhawk_prune_ewc_public24342.csv,2026-06-19 03:03:44.577000,sub84 jayhawk public pruning ewc output 24342,SubmissionStatus.COMPLETE,247.8306
 sub83_zaoui_public_drop0233925_next2_conf05336875.csv,2026-06-17 10:26:15,sub83 zaoui sub54 next2 boundary conf0.5336875,SubmissionStatus.COMPLETE,246.0571
-sub82_zaoui_public_drop0233925_next2_conf05338125.csv,2026-06-17 10:24:47,sub82 zaoui sub54 next2 boundary conf0.5338125,SubmissionStatus.COMPLETE,246.0571
-sub81_zaoui_public_drop0233925_next2_asym879hi.csv,2026-06-16 04:53:54,sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534,SubmissionStatus.COMPLETE,246.0571
+sub82_zaoui_public_drop0233925_next2_conf05338125.csv,2026-06-17 10:24:47.190000,sub82 zaoui sub54 next2 boundary conf0.5338125,SubmissionStatus.COMPLETE,246.0571
+sub81_zaoui_public_drop0233925_next2_asym879hi.csv,2026-06-16 04:53:54.870000,sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534,SubmissionStatus.COMPLETE,246.0571
 sub80_zaoui_public_drop0233925_next2_asym1191hi.csv,2026-06-16 04:52:33.197000,sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375,SubmissionStatus.COMPLETE,246.0571
-sub79_zaoui_public_drop0233925_next2_conf0533875.csv,2026-06-15 02:53:53,sub79 zaoui sub54 next2 boundary conf0.533875,SubmissionStatus.COMPLETE,246.0571
+sub79_zaoui_public_drop0233925_next2_conf0533875.csv,2026-06-15 02:53:53.230000,sub79 zaoui sub54 next2 boundary conf0.533875,SubmissionStatus.COMPLETE,246.0571
 sub78_zaoui_public_drop0233925_next2_conf0533625.csv,2026-06-15 02:50:54.037000,sub78 zaoui sub54 next2 boundary conf0.533625,SubmissionStatus.COMPLETE,246.0571
 sub77_zaoui_public_drop0233925_next2_conf053425.csv,2026-06-14 18:14:26.327000,sub77 zaoui sub54 next2 boundary conf0.53425,SubmissionStatus.COMPLETE,246.0572
