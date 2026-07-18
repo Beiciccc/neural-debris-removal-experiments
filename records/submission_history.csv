@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub136_nomannic_sub132_img1420_geom_median.csv,2026-07-18 19:39:12.183000,sub136 sub132 image1420 family median geometry confidence 0.225356,SubmissionStatus.COMPLETE,243.9703
 sub135_nomannic_sub132_img1420_geom_modal.csv,2026-07-18 19:19:43.217000,sub135 sub132 image1420 modal geometry confidence 0.225356,SubmissionStatus.COMPLETE,243.9703
 sub134_nomannic_sub133_img1420_conf0381300.csv,2026-07-17 19:22:24.983000,sub134 sub133 image1420 fitted optimum confidence 0.381300,SubmissionStatus.COMPLETE,244.0004
 sub133_nomannic_sub132_img1420_conf050.csv,2026-07-17 19:19:15,sub133 sub132 image1420 confidence calibration 0.500000,SubmissionStatus.COMPLETE,244.0536
@@ -48,4 +49,3 @@ sub84_jayhawk_prune_ewc_public24342.csv,2026-06-19 03:03:44.577000,sub84 jayhawk
 sub83_zaoui_public_drop0233925_next2_conf05336875.csv,2026-06-17 10:26:15,sub83 zaoui sub54 next2 boundary conf0.5336875,SubmissionStatus.COMPLETE,246.0571
 sub82_zaoui_public_drop0233925_next2_conf05338125.csv,2026-06-17 10:24:47,sub82 zaoui sub54 next2 boundary conf0.5338125,SubmissionStatus.COMPLETE,246.0571
 sub81_zaoui_public_drop0233925_next2_asym879hi.csv,2026-06-16 04:53:54,sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534,SubmissionStatus.COMPLETE,246.0571
-sub80_zaoui_public_drop0233925_next2_asym1191hi.csv,2026-06-16 04:52:33.197000,sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375,SubmissionStatus.COMPLETE,246.0571

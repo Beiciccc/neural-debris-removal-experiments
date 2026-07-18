@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-16 04:52:33.197000 | `sub80_zaoui_public_drop0233925_next2_asym1191hi.csv` | sub80 zaoui sub54 next2 asym 1191=0.534 879=0.53375 | COMPLETE | 246.0571 |
 | 2026-06-16 04:53:54 | `sub81_zaoui_public_drop0233925_next2_asym879hi.csv` | sub81 zaoui sub54 next2 asym 1191=0.53375 879=0.534 | COMPLETE | 246.0571 |
 | 2026-06-17 10:24:47 | `sub82_zaoui_public_drop0233925_next2_conf05338125.csv` | sub82 zaoui sub54 next2 boundary conf0.5338125 | COMPLETE | 246.0571 |
 | 2026-06-17 10:26:15 | `sub83_zaoui_public_drop0233925_next2_conf05336875.csv` | sub83 zaoui sub54 next2 boundary conf0.5336875 | COMPLETE | 246.0571 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-17 19:19:15 | `sub133_nomannic_sub132_img1420_conf050.csv` | sub133 sub132 image1420 confidence calibration 0.500000 | COMPLETE | 244.0536 |
 | 2026-07-17 19:22:24.983000 | `sub134_nomannic_sub133_img1420_conf0381300.csv` | sub134 sub133 image1420 fitted optimum confidence 0.381300 | COMPLETE | 244.0004 |
 | 2026-07-18 19:19:43.217000 | `sub135_nomannic_sub132_img1420_geom_modal.csv` | sub135 sub132 image1420 modal geometry confidence 0.225356 | COMPLETE | 243.9703 |
+| 2026-07-18 19:39:12.183000 | `sub136_nomannic_sub132_img1420_geom_median.csv` | sub136 sub132 image1420 family median geometry confidence 0.225356 | COMPLETE | 243.9703 |
 
 ## Candidate Direction Notes
 
