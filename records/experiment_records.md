@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-19 03:03:44.577000 | `sub84_jayhawk_prune_ewc_public24342.csv` | sub84 jayhawk public pruning ewc output 24342 | COMPLETE | 247.8306 |
 | 2026-06-19 03:06:42.860000 | `sub85_jayhawk_prune_ewc_unlearn20_scale030.csv` | sub85 jayhawk output unlearn20 confidence scale0.30 | COMPLETE | 248.4863 |
 | 2026-06-20 03:04:12.323000 | `sub86_zaoui_sub83_next1_img73_conf053375.csv` | sub86 zaoui sub83 next1 image73 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-20 03:10:27.387000 | `sub87_zaoui_sub83_next1_img804_conf053375.csv` | sub87 zaoui sub83 next1 image804 conf0.53375 | COMPLETE | 246.0571 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-19 19:45:23.327000 | `sub137_nomannic_sub132_img1420_conf0248600.csv` | sub137 sub132 image1420 safe-rank confidence 0.248600 | COMPLETE | 243.9651 |
 | 2026-07-19 19:54:08.600000 | `sub138_nomannic_sub137_add_img1586_conf0226266.csv` | sub138 sub137 add image1586 source box confidence 0.226266 | COMPLETE | 243.9651 |
 | 2026-07-21 00:43:29.707000 | `sub139_nomannic_sub137_add_img1791_conf0226226.csv` | sub139 sub137 add image1791 source box confidence 0.226226 | COMPLETE | 243.9651 |
+| 2026-07-21 01:04:58.847000 | `sub140_nomannic_sub139_add_img1954_conf0226037.csv` | sub140 sub139 add image1954 source box confidence 0.226037 | COMPLETE | 243.9651 |
 
 ## Candidate Direction Notes
 
