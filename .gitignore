@@ -7,6 +7,8 @@ kaggle.json
 *.ckpt
 .DS_Store
 ._*
+* [0-9]*.csv
+* [0-9]*.md
 logs/
 external_code/
 scripts/
