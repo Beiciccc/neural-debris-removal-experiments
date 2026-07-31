@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub137_nomannic_sub132_img1420_conf0248600.csv,2026-07-22 00:44:19.787000,sub137 sub132 image1420 safe-rank confidence 0.248600,SubmissionStatus.COMPLETE,243.9651
 sub140_nomannic_sub139_add_img1954_conf0226037.csv,2026-07-21 01:04:58.847000,sub140 sub139 add image1954 source box confidence 0.226037,SubmissionStatus.COMPLETE,243.9651
 sub139_nomannic_sub137_add_img1791_conf0226226.csv,2026-07-21 00:43:29.707000,sub139 sub137 add image1791 source box confidence 0.226226,SubmissionStatus.COMPLETE,243.9651
 sub138_nomannic_sub137_add_img1586_conf0226266.csv,2026-07-19 19:54:08.600000,sub138 sub137 add image1586 source box confidence 0.226266,SubmissionStatus.COMPLETE,243.9651
@@ -48,4 +49,3 @@ sub89_zaoui_sub83_next1_img1066_conf053375.csv,2026-06-21 08:11:42.067000,sub89 
 sub88_zaoui_sub83_pair_img73_804_conf053375.csv,2026-06-21 08:09:57.203000,sub88 zaoui sub83 paired image73+804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub87_zaoui_sub83_next1_img804_conf053375.csv,2026-06-20 03:10:27.387000,sub87 zaoui sub83 next1 image804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub86_zaoui_sub83_next1_img73_conf053375.csv,2026-06-20 03:04:12.323000,sub86 zaoui sub83 next1 image73 conf0.53375,SubmissionStatus.COMPLETE,246.0571
-sub85_jayhawk_prune_ewc_unlearn20_scale030.csv,2026-06-19 03:06:42.860000,sub85 jayhawk output unlearn20 confidence scale0.30,SubmissionStatus.COMPLETE,248.4863
