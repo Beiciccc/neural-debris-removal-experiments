@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub142_nomannic_sub141_add_img1442_conf0225613.csv,2026-07-31 01:11:33.387000,sub142 sub141 add image1442 source box confidence 0.225613,SubmissionStatus.COMPLETE,243.9651
 sub141_nomannic_sub137_add_img521_conf0225694.csv,2026-07-31 01:08:18.013000,sub141 sub137 add image521 source box confidence 0.225694,SubmissionStatus.COMPLETE,243.9651
 sub137_nomannic_sub132_img1420_conf0248600.csv,2026-07-22 00:44:19.787000,sub137 sub132 image1420 safe-rank confidence 0.248600,SubmissionStatus.COMPLETE,243.9651
 sub140_nomannic_sub139_add_img1954_conf0226037.csv,2026-07-21 01:04:58.847000,sub140 sub139 add image1954 source box confidence 0.226037,SubmissionStatus.COMPLETE,243.9651
@@ -48,4 +49,3 @@ sub91_nomannic_cv_debris_direct_conf023.csv,2026-06-22 12:15:34.853000,sub91 nom
 sub90_nomannic_cv_debris_direct_2453014.csv,2026-06-22 12:13:17.877000,sub90 nomannic cv debris direct output 245.3014 listing,SubmissionStatus.COMPLETE,245.3014
 sub89_zaoui_sub83_next1_img1066_conf053375.csv,2026-06-21 08:11:42.067000,sub89 zaoui sub83 next image1066 conf0.53375,SubmissionStatus.COMPLETE,246.0571
 sub88_zaoui_sub83_pair_img73_804_conf053375.csv,2026-06-21 08:09:57.203000,sub88 zaoui sub83 paired image73+804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
-sub87_zaoui_sub83_next1_img804_conf053375.csv,2026-06-20 03:10:27.387000,sub87 zaoui sub83 next1 image804 conf0.53375,SubmissionStatus.COMPLETE,246.0571
