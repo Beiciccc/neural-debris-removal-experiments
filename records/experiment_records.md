@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-21 08:09:57.203000 | `sub88_zaoui_sub83_pair_img73_804_conf053375.csv` | sub88 zaoui sub83 paired image73+804 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-21 08:11:42.067000 | `sub89_zaoui_sub83_next1_img1066_conf053375.csv` | sub89 zaoui sub83 next image1066 conf0.53375 | COMPLETE | 246.0571 |
 | 2026-06-22 12:13:17.877000 | `sub90_nomannic_cv_debris_direct_2453014.csv` | sub90 nomannic cv debris direct output 245.3014 listing | COMPLETE | 245.3014 |
 | 2026-06-22 12:15:34.853000 | `sub91_nomannic_cv_debris_direct_conf023.csv` | sub91 nomannic direct output conf>=0.23 filter | COMPLETE | 245.1886 |
@@ -56,6 +55,7 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-07-22 00:44:19.787000 | `sub137_nomannic_sub132_img1420_conf0248600.csv` | sub137 sub132 image1420 safe-rank confidence 0.248600 | COMPLETE | 243.9651 |
 | 2026-07-31 01:08:18.013000 | `sub141_nomannic_sub137_add_img521_conf0225694.csv` | sub141 sub137 add image521 source box confidence 0.225694 | COMPLETE | 243.9651 |
 | 2026-07-31 01:11:33.387000 | `sub142_nomannic_sub141_add_img1442_conf0225613.csv` | sub142 sub141 add image1442 source box confidence 0.225613 | COMPLETE | 243.9651 |
+| 2026-08-01 05:03:57.897000 | `sub143_nomannic_sub137_add_img19_conf0225467.csv` | sub143 sub137 add image19 source box confidence 0.225467 | COMPLETE | 243.9651 |
 
 ## Candidate Direction Notes
 
