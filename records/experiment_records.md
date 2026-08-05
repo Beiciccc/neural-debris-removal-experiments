@@ -6,7 +6,6 @@ This file tracks public submission outcomes and lightweight candidate statistics
 
 | Date UTC | File | Description | Status | Public Score |
 |---|---|---|---:|---:|
-| 2026-06-28 23:07:06.123000 | `sub99_nomannic_cv_debris_direct_conf02270.csv` | sub99 nomannic direct output conf>0.227 filter | COMPLETE | 244.1423 |
 | 2026-06-28 23:12:57.927000 | `sub100_nomannic_cv_debris_direct_conf02275.csv` | sub100 nomannic direct output conf>0.2275 filter | COMPLETE | 244.2767 |
 | 2026-06-29 23:07:34.720000 | `sub103_nomannic_cv_debris_direct_conf022725.csv` | sub103 nomannic direct output conf>0.22725 filter | COMPLETE | 244.1423 |
 | 2026-06-29 23:14:25.873000 | `sub105_nomannic_cv_debris_direct_conf0226875.csv` | sub105 nomannic direct output conf>0.226875 filter | COMPLETE | 244.3692 |
@@ -56,9 +55,10 @@ This file tracks public submission outcomes and lightweight candidate statistics
 | 2026-08-03 05:14:38.323000 | `sub148_nomannic_sub137_add_img50_conf0224781.csv` | sub148 sub137 add image50 source box confidence 0.224781 | COMPLETE | 244.1898 |
 | 2026-08-04 05:26:12.950000 | `sub149_nomannic_sub137_add_img943_conf0224749.csv` | sub149 sub137 add image943 source box confidence 0.224749 | COMPLETE | 244.1898 |
 | 2026-08-04 05:27:07.190000 | `sub150_nomannic_sub137_add_img965_conf0224376.csv` | sub150 sub137 add image965 source box confidence 0.224376 | COMPLETE | 243.9651 |
+| 2026-08-05 05:28:04.297000 | `sub151_nomannic_sub137_add_img1119_conf0224200.csv` | sub151 sub137 add image1119 source box confidence 0.224200 | COMPLETE | 243.8326 |
 
 ## Candidate Direction Notes
 
 - Confidence scaling on the Zaoui public-pruning candidate improved the public score from scale 1.02 through 1.09.
-- Best recorded public score in this snapshot is 243.9651 from `sub137_nomannic_sub132_img1420_conf0248600.csv`.
+- Best recorded public score in this snapshot is 243.8326 from `sub151_nomannic_sub137_add_img1119_conf0224200.csv`.
 - Later candidate files are retained as generated artifacts for follow-up submissions.

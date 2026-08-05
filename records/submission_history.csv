@@ -1,4 +1,5 @@
 fileName,date_utc,description,status,publicScore
+sub151_nomannic_sub137_add_img1119_conf0224200.csv,2026-08-05 05:28:04.297000,sub151 sub137 add image1119 source box confidence 0.224200,SubmissionStatus.COMPLETE,243.8326
 sub150_nomannic_sub137_add_img965_conf0224376.csv,2026-08-04 05:27:07.190000,sub150 sub137 add image965 source box confidence 0.224376,SubmissionStatus.COMPLETE,243.9651
 sub149_nomannic_sub137_add_img943_conf0224749.csv,2026-08-04 05:26:12.950000,sub149 sub137 add image943 source box confidence 0.224749,SubmissionStatus.COMPLETE,244.1898
 sub148_nomannic_sub137_add_img50_conf0224781.csv,2026-08-03 05:14:38.323000,sub148 sub137 add image50 source box confidence 0.224781,SubmissionStatus.COMPLETE,244.1898
@@ -48,4 +49,3 @@ sub104_nomannic_cv_debris_direct_conf022730.csv,2026-06-30 23:13:43.123000,sub10
 sub105_nomannic_cv_debris_direct_conf0226875.csv,2026-06-29 23:14:25.873000,sub105 nomannic direct output conf>0.226875 filter,SubmissionStatus.COMPLETE,244.3692
 sub103_nomannic_cv_debris_direct_conf022725.csv,2026-06-29 23:07:34.720000,sub103 nomannic direct output conf>0.22725 filter,SubmissionStatus.COMPLETE,244.1423
 sub100_nomannic_cv_debris_direct_conf02275.csv,2026-06-28 23:12:57.927000,sub100 nomannic direct output conf>0.2275 filter,SubmissionStatus.COMPLETE,244.2767
-sub99_nomannic_cv_debris_direct_conf02270.csv,2026-06-28 23:07:06.123000,sub99 nomannic direct output conf>0.227 filter,SubmissionStatus.COMPLETE,244.1423
